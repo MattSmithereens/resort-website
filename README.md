@@ -6,11 +6,11 @@
 
 ## Description
 
-_Web page for the resort as part of project for Bob the owner. Here is a link to the site for the hard-of-typing: https://wvw999.github.io/resort-website/ _
+_Web page for the resort as part of project for Bob the owner. Here is a link to the site for the hard-of-typing: https://wvw999.github.io/resort-website/_
 
 ## Setup/Installation Requirements
 
-* _A computer*_
+* _A computer_
 * _A keyboard_
 * _hands (hand?)_
 * _power outlet_
